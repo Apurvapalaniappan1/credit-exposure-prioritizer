@@ -5,6 +5,10 @@ see how a proposed order would change it. It is an operational review aid, not a
 credit approval, bankruptcy prediction, lending recommendation, or Valuatum
 credit-risk model.
 
+[Try the live demo](https://credit-exposure-prioritizer.streamlit.app/)
+
+The demo opens with fictional sample data.
+
 ## Run
 
 Python 3.10 is supported. Install the dependencies in `requirements.txt`, then:
