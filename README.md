@@ -1,6 +1,6 @@
 # Credit Exposure Prioritizer
 
-A small Streamlit dashboard to help teams review customer credit exposure and
+A small Streamlit dashboard to help finance and credit-control staff review customer credit exposure and
 see how a proposed order would change it. It is an operational review aid, not a
 credit approval, bankruptcy prediction, lending recommendation, or Valuatum
 credit-risk model.
