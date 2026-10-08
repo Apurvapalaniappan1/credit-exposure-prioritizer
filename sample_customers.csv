@@ -1,0 +1,10 @@
+customer_name,business_id,outstanding_eur,credit_limit_eur,overdue_eur,max_days_overdue
+Northstar Components,0012345,12000,10000,0,0
+Juniper Office Supply,0024680,6000,10000,2000,35
+Harborlight Foods,0035791,6000,10000,1000,15
+Maple Bridge Design,0046802,8000,10000,0,0
+Pinecrest Tools,0057913,7999,10000,0,0
+Bluewater Studio,0068024,4000,,0,0
+Silver Fern Logistics,0079135,10000,10000,0,0
+Redwood Safety Group,0080246,5000,0,500,30
+Willowbrook Textiles,0091357,9000,10000,0,0
